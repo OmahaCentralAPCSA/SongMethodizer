@@ -12,9 +12,11 @@ How would make this more concise, than just printing all of the lyrics.  There i
 2. The names of the static methods should be appropriately named. 
 3. When your program is run, the lyrics should print exactly like you see them below.  Formatting included.  
 4. The static methods should consist of the following: 1) Call another static method 2) Have print statements 3) For loops to repeat methods or print statments
-5. In your comments at the beginning of the program, answer the following questions: 
 
-> 1. 
+### :pencil2: Reflection and Write up 
+Add comments to your code that answer the following questions: 
+> 1. Summarize your approach to decomposing the song into static methods. (How did you know where to start, what things did you look for?)
+> 2. At what point is it no longer beneficial to keep splitting up the lyrics into new static methods? When does it no longer become a more concise representation of the song? 
 
 
 ---
