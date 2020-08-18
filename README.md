@@ -11,6 +11,10 @@ How would make this more concise, than just printing all of the lyrics.  There i
 1. Decompose "Shake it off" into static methods. The code should represent the song in a concise way. 
 2. The names of the static methods should be appropriately named. 
 3. When your program is run, the lyrics should print exactly like you see them below.  Formatting included.  
+4. The static methods should consist of the following: 1) Call another static method 2) Have print statements 3) For loops to repeat methods or print statments
+5. In your comments at the beginning of the program, answer the following questions: 
+
+> 1. 
 
 
 ---
