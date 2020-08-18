@@ -5,11 +5,13 @@ Recall that a static method is a group of statements.  They usually create the s
 You will test your skills with procedural decomposition and Java-ify a popular song.  
 
 ### Below are the lyrics to Taylor Swift's popular song "Shake it off":  
-How would make this more concise, than just printing all of the lyrics.  There is obivous repitition and structure to the song.  
+How would make this more concise, than just printing all of the lyrics.  There is obivous repitition and structure to the song. 
 
-### :pushpin: Your Task: 
-1. Decompose "Shake it off" into static methods.  
-2. When your program is run, the lyrics should print exactly like you see them below.  
+### :pushpin: Your Requirements: 
+1. Decompose "Shake it off" into static methods. The code should represent the song in a concise way. 
+2. The names of the static methods should be appropriately named. 
+3. When your program is run, the lyrics should print exactly like you see them below.  Formatting included.  
+
 
 ---
 I stay out too late, got nothin' in my brain  
