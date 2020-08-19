@@ -2,11 +2,6 @@ public class Main {
 
  /*
  PracticeSong should take the song "Happy" by Pharrell
- 
-It might seem crazy what I'm 'bout to say
-Sunshine she's here, you can take a break
-I'm a hot air balloon that could go to space
-With the air, like I don't care baby by the way
 
 Because I'm happy
 Clap along if you feel like a room without a roof
