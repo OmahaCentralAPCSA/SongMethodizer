@@ -1,4 +1,4 @@
-public class Main {
+public class ShakeItOff {
 
   public static void main(String [] args) {
     //main will only call the playSong() method
